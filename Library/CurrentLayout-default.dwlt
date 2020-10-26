@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 814, y: 492}
   m_MaxSize: {x: 16006, y: 14042}
   vertical: 0
-  controlID: 10740
+  controlID: 244
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 538, y: 492}
   m_MaxSize: {x: 12005, y: 14042}
   vertical: 1
-  controlID: 10741
+  controlID: 245
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_MinSize: {x: 538, y: 221}
   m_MaxSize: {x: 12005, y: 4021}
   vertical: 0
-  controlID: 10742
+  controlID: 246
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -421,9 +421,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 18390000
       m_LastClickedID: 0
-      m_ExpandedIDs: dad5ffff34daffff3cdbffff6afbffff
+      m_ExpandedIDs: 82f9ffffa6f9ffffcaf9ffffa4faffff4cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -501,16 +501,16 @@ MonoBehaviour:
   m_ShowContextualTools: 0
   m_WindowGUID: 29cdc634506e15d4f8fa14d65c99f60c
   m_Gizmos: 1
-  m_SceneIsLit: 1
+  m_SceneIsLit: 0
   m_SceneLighting: 1
   m_2DMode: 0
   m_isRotationLocked: 0
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 30.099058, y: 4.970734, z: -23.396708}
+    m_Target: {x: 63.142883, y: 3.2997208, z: -7.7313805}
     speed: 2
-    m_Value: {x: 30.099058, y: 4.970734, z: -23.396708}
+    m_Value: {x: 63.142883, y: 3.2997208, z: -7.7313805}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -556,13 +556,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.008880894, y: 0.6914295, z: -0.0085248025, w: 0.7223983}
+    m_Target: {x: -0.028300868, y: -0.4822874, z: 0.014564112, w: -0.8758338}
     speed: 2
-    m_Value: {x: 0.0077970414, y: 0.691412, z: -0.007487236, w: 0.72237986}
+    m_Value: {x: -0.028269112, y: -0.4834317, z: 0.014601445, w: -0.8748037}
   m_Size:
-    m_Target: 12.124356
+    m_Target: 32.209347
     speed: 2
-    m_Value: 12.124355
+    m_Value: 32.209347
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -652,20 +652,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts/Player
+    - Assets/Scenes
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts/Player
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\SideProjects\Art-house-of-the-dead
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b43e0000
-    m_LastClickedID: 16052
-    m_ExpandedIDs: 0000000086330000a63e000000ca9a3b
+    m_SelectedIDs: 12390000
+    m_LastClickedID: 14610
+    m_ExpandedIDs: 000000000439000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -693,7 +693,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000008633000000ca9a3b
+    m_ExpandedIDs: 000000000439000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -720,7 +720,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0

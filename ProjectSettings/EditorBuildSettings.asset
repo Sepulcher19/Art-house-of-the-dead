@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/RoomM_Pathfinding_Sandbox.unity
+    guid: af958a2681a30124d9222bdb97f355bf
   m_configObjects: {}

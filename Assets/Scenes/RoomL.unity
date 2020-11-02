@@ -22198,6 +22198,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3894941181101976835, guid: 25e0cb382656c46469340580c0e44272,
+        type: 3}
+      propertyPath: mousesensitivity
+      value: 20
+      objectReference: {fileID: 0}
     - target: {fileID: 3894941181473335466, guid: 25e0cb382656c46469340580c0e44272,
         type: 3}
       propertyPath: m_LocalPosition.x

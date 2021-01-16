@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/RoomM_Pathfinding_Sandbox.unity
+- path: Assets/Scenes/FinalRoomOrder/RoomCap10.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

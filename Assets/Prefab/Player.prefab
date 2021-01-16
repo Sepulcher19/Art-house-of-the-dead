@@ -109,7 +109,7 @@ GameObject:
   - component: {fileID: 3894941181473335466}
   - component: {fileID: 3894941181473335467}
   - component: {fileID: 3894941181473335468}
-  - component: {fileID: 3894941181473335469}
+  - component: {fileID: 3334814521693214972}
   - component: {fileID: 3894941181473335470}
   m_Layer: 0
   m_Name: Player
@@ -181,7 +181,7 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
---- !u!114 &3894941181473335469
+--- !u!114 &3334814521693214972
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -190,18 +190,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 3894941181473335471}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 565264f6da8f1a44c925e67a194ecac4, type: 3}
+  m_Script: {fileID: 11500000, guid: 56af59aa40622e640b903ff2e2fb4373, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  controller: {fileID: 3894941181473335470}
+  controller: {fileID: 0}
   speed: 12
   gravity: -9.8
-  jumphieght: 5
-  groundCheck: {fileID: 3894941182420161898}
+  jumphieght: 0
+  groundCheck: {fileID: 0}
   groundDistance: 0.4
   groundMask:
     serializedVersion: 2
-    m_Bits: 256
+    m_Bits: 0
 --- !u!143 &3894941181473335470
 CharacterController:
   m_ObjectHideFlags: 0

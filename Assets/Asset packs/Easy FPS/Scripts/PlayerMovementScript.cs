@@ -175,7 +175,7 @@ public class PlayerMovementScript : MonoBehaviour {
 
 
 	[Tooltip("The maximum speed you want to achieve")]
-	public int maxSpeed = 5;
+	public int maxSpeed = 15;
 	[Tooltip("The higher the number the faster it will stop")]
 	public float deaccelerationSpeed = 15.0f;
 

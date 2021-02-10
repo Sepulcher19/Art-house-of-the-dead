@@ -15,12 +15,13 @@ public class Pathfinding : MonoBehaviour
     void Start()
     {
         nav = GetComponent<NavMeshAgent>();
+      //  points = GameObject.FindGameObjectsWithTag("point");
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
-        if (!nav.pathPending && nav.remainingDistance < 0.5f)
+        if (!nav.pathPending && nav.remainingDistance < 1f)
             GoToNextPoint();
     }
 
@@ -31,6 +32,7 @@ public class Pathfinding : MonoBehaviour
             return;
         }
         nav.destination = points[destPoint].position;
-        destPoint = (destPoint + 1) % points.Length;
+        //destPoint = (destPoint + 1) % points.Length;
+        destPoint = (Random.Range(0, points.Length));
     }
 }

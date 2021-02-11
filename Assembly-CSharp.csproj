@@ -68,6 +68,8 @@
     <Compile Include="Assets\Asset packs\Easy FPS\Scripts\GunScript.cs" />
     <Compile Include="Assets\Asset packs\Easy FPS\Scripts\MouseLookScript.cs" />
     <Compile Include="Assets\Asset packs\Easy FPS\Scripts\PlayerMovementScript.cs" />
+    <Compile Include="Assets\Scripts\ArtProperties.cs" />
+    <Compile Include="Assets\Scripts\ObjectClicker.cs" />
     <Compile Include="Assets\Scripts\Pathfinding.cs" />
     <Compile Include="Assets\Scripts\Player\MouseLook.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovementScript1.cs" />

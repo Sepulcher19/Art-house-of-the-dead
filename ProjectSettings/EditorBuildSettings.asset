@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/oldscene/RoomM_Pathfinding_Sandbox.unity
+    path: Assets/Scenes/RoomM_Pathfinding_Sandbox.unity
     guid: af958a2681a30124d9222bdb97f355bf
   m_configObjects: {}
